@@ -1,3 +1,5 @@
+# Investigates what is the best way to encode dates. The answer: categorical embeddings.
+
 import calendar
 import datetime
 import argparse
